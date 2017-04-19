@@ -79,7 +79,7 @@ def main():
 
     print("Bound to socket on port", str(PORT))
 
-    s.listen(10)
+    s.listen(15)
     print("Listening on port", str(PORT))
 
     threads = []
