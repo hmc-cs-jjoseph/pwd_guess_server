@@ -1,0 +1,6 @@
+usage:
+python3 pwd-guess-server.py [port=3001]
+
+notes:
+hardcoded to run on knuth.cs.hmc.edu
+
